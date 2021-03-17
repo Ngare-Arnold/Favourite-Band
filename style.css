@@ -1,6 +1,20 @@
-body {
-    background-image: url(image1.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    
+* {
+    background-color: skyblue;
+}
+
+h1{
+    color: greenyellow;
+}
+
+#head {
+    color:red;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: greenyellow;
+
+}
+h3{
+    color: greenyellow;
 }
